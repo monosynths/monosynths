@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @monosynths
+- 🌱 I’m currently in the process of learning game development in the Unity and Godot engines. In time I'll be releasing some prototype games... stay tuned! I'm also @ https://monosynths.itch.io/ and my primary site https://monosynths.com
